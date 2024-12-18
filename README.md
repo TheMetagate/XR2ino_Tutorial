@@ -15,7 +15,7 @@ You can find the XR2ino app on the Meta Quest Store:
 # Arduino Script
 
 Our goal was to establish communication between Arduino and Unity via a Bluetooth module and ensure that the application could be customized by the end user simply by modifying the provided Arduino template.
-In this way, we wanted to provide the Arduino community the opportunity to experiment with Mixed Reality without needing to work on Unity.
+In this way, we wanted to provide the Arduino community the opportunity to experiment with Mixed Reality without needing to work on Unity.\n
 !! Be careful to follow our comments in the Arduino script. [**Download XR2ino code here**](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/Assets/Arduino/Script/XR2inoTemplate.ino)
 
 
