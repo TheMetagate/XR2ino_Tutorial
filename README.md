@@ -13,4 +13,4 @@ You can find the XR2ino app on the Meta Quest Store:
 
 # Arduino Script
 
-![XR2ino Application](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/Assets/Arduino/Script/XR2ino.ino)
+[Download XR2ino code here](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/Assets/Arduino/Script/XR2ino.ino)
