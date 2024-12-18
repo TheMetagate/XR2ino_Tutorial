@@ -1,4 +1,4 @@
-![XR2ino Application](path_to_your_image.jpg)
+![XR2ino Application]([path_to_your_image.jpg](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/Assets/Images/HeroCover_XR2ino.png))
 
 # XR2ino
 
