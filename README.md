@@ -16,6 +16,7 @@ You can find the XR2ino app on the Meta Quest Store:
 
 Our goal was to establish communication between Arduino and Unity via a Bluetooth module and ensure that the application could be customized by the end user simply by modifying the provided Arduino template.
 In this way, we wanted to provide the Arduino community the opportunity to experiment with Mixed Reality without needing to work on Unity.
+!! Be careful to follow our comments in the Arduino script. [**Download XR2ino code here**](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/Assets/Arduino/Script/XR2inoTemplate.ino)
 
 
 ### Variables
@@ -31,4 +32,12 @@ Unity does not allow special characters such as '%', '&', '°', etc. The applica
 As a test, we used a 'Capacitive Soil Moisture Sensor,' but any sensor can be used as long as the final data obtained is converted into a float. Over time, based on feedback received, we will add a list of sensors tested for the application.
 About the Bluetooth connection, we used an Arduino Uno R4 WiFi, but any other Bluetooth Low Energy (BLE) module are allowed.
 
-[Download XR2ino code here](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/Assets/Arduino/Script/XR2ino.ino)
+
+# License
+
+This project is licensed under the [MIT LICENSE](https://github.com/TheMetagate/XR2ino_Tutorial/blob/main/LICENSE.txt).
+
+
+# Support
+
+
