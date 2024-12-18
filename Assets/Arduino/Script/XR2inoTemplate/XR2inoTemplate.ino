@@ -2,7 +2,8 @@
  * This script was created by Metagate, an Italian company that develops mixed reality experiences.
  * It is designed to connect an Arduino BLE device to the XR2ino app, developed in Unity, for seamless integration with mixed reality experiences on Meta Quest headsets.
  * 
- * License: Public Domain
+ * Copyright (c) 2024 Metagate
+ * SPDX-License-Identifier: MIT
  * 
  * Feel free to modify and adapt this script to your needs, following our instructions. For a step-by-step tutorial, visit our guide at:
  * [Insert Project Hub link]
