@@ -9,7 +9,7 @@
  * [Insert Project Hub link]
  * 
  * We invite you to try our app and share your experiences! 
- * [Insert link to Meta Quest store]
+ * https://vr.meta.me/s/1KVRVO3efRSOYcY
  * 
  * For collaborations or to implement this experience, contact us at:
  * https://discover.themetagate.it/pages/xr2ino
