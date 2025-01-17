@@ -8,7 +8,7 @@ This code is designed to connect an Arduino BLE device to the XR2ino app, develo
 # Meta Quest Store
 
 You can find the XR2ino app on the Meta Quest Store:
-[**Download XR2ino from the Meta Store**](https://discover.themetagate.it/en/pages/xr2ino)
+[**Download XR2ino from the Meta Store**](https://vr.meta.me/s/1KVRVO3efRSOYcY)
 
 
 # Arduino Script
