@@ -39,4 +39,4 @@ This project is licensed under the [MIT LICENSE](https://github.com/TheMetagate/
 
 # Support
 
-For any implementation or questions, you can join the [Discord channel](https://discord.com/invite/bghRyt4DRs) or contact us directly on our [Website](https://discover.themetagate.it/en/pages/xr2ino).
+For any implementation or questions, you can join the [Discord channel](https://discord.gg/G3QHaVYDbu) or contact us directly on our [Website](https://discover.themetagate.it/en/pages/xr2ino).
