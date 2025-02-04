@@ -6,7 +6,7 @@
  * SPDX-License-Identifier: MIT
  * 
  * Feel free to modify and adapt this script to your needs, following our instructions. For a step-by-step tutorial, visit our guide at:
- * [Insert Project Hub link]
+ * https://projecthub.arduino.cc/metagate/xr2ino-the-first-app-to-visualize-arduino-data-on-meta-quest-in-mixed-reality-27465e
  * 
  * We invite you to try our app and share your experiences! 
  * https://vr.meta.me/s/1KVRVO3efRSOYcY
